@@ -1,4 +1,8 @@
 _repo: Suomalaisten-runojen-uskonto_49028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krohn, Kaarle
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '43555'
     url: http://www.gutenberg.org/2009/agents/43555
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49028#Suomalaisten-runojen-uskonto
 gutenberg_issued: '2015-05-23'
 gutenberg_type: Text
 identifiers:
